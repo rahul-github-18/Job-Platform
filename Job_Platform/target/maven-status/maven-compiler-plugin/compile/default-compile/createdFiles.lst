@@ -1,0 +1,8 @@
+com/DB/DBConnect.class
+com/servlet/LoginServlet.class
+com/entity/User.class
+com/servlet/AddPostServlet.class
+com/entity/Jobs.class
+com/mycompany/job_platform/resources/JakartaEE10Resource.class
+com/mycompany/job_platform/JakartaRestConfiguration.class
+com/dao/JobDAO.class
